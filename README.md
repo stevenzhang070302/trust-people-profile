@@ -1,5 +1,6 @@
 # Trust People Profile Page Prototype
 Project under Vdart Digital
+
 Project using pgSQL, php, Vue.js
 
 # Instructions

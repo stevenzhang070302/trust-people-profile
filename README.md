@@ -1,5 +1,6 @@
 # Trust People Profile Page Prototype
 Project under Vdart Digital
+Project using pgSQL, php, Vue.js
 
 # Instructions
 Download and install xampp and pgSQL. Open xammp control and start apache and mySQL. Open pgAdmin and create a database/tables or import the excel spreadsheets into pgAdmin. You may have to change code in db.php to connect with your own pgAdmin. Install this folder. put all the contents inside of htdocs in the xammp folder. To access the website, open a browser and type in localhost/[folder-name]/profile.php.

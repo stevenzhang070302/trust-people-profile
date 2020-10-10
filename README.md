@@ -5,10 +5,10 @@ Project under Vdart Digital
 Download and install xampp and pgSQL. Open xammp control and start apache and mySQL. Open pgAdmin and create a database/tables or import the excel spreadsheets into pgAdmin. You may have to change code in db.php to connect with your own pgAdmin. Install this folder. put all the contents inside of htdocs in the xammp folder. To access the website, open a browser and type in localhost/[folder-name]/profile.php.
 
 # Demo images
-![home](https://github.com/stevenzhang070302/trust-people-profile/blob/main/homepage.PNG?raw=true)
-![profile](https://github.com/stevenzhang070302/trust-people-profile/blob/main/profile.PNG?raw=true)
-![profile2](https://github.com/stevenzhang070302/trust-people-profile/blob/main/profile2.PNG?raw=true)
-![profile3](https://github.com/stevenzhang070302/trust-people-profile/blob/main/profile3.PNG?raw=true)
+![home](https://github.com/stevenzhang070302/trust-people-profile/blob/master/homepage.PNG?raw=true)
+![profile](https://github.com/stevenzhang070302/trust-people-profile/blob/master/profile.PNG?raw=true)
+![profile2](https://github.com/stevenzhang070302/trust-people-profile/blob/master/profile2.PNG?raw=true)
+![profile3](https://github.com/stevenzhang070302/trust-people-profile/blob/master/profile3.PNG?raw=true)
 
 
 
